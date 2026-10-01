@@ -16,6 +16,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./assets/avatar-hello.gif" width="300" alt="Animated avatar bobbing and saying Hello!" />
+</div>
+
+<br/>
+
 ## 🧠 About me
 
 ```text
