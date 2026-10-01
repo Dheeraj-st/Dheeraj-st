@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/avatar-hello.gif" width="300" alt="Animated avatar bobbing and saying Hello!" />
+  <img src="./assets/avatar-hello.gif" width="380" alt="Animated full-body avatar walking and waving Hello!" />
 </div>
 
 <br/>
